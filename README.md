@@ -20,8 +20,3 @@ One aspect of this project, which may differ from how other participants approac
 
 One feature that I will be constructing is an SES categorical variable, derived from the pay delay field. Pay delays can be the result of financial hardship, as I've learned through first hand experience. Socioeconomic status is a key determinant of health and will therefore be included in model building.
 
-
-```python
-X = pd.get_dummies(data=X, drop_first=True)
-X = X.dropna(axis = 1)
-```
