@@ -35,25 +35,25 @@ The first step in any data-based problem is understanding the features and outco
 
 
 
-![png](output_37_0.png)
+![png](img/output_37_0.png)
 
 
 
-![png](output_38_0.png)
+![png](img/output_38_0.png)
 
 
 
-![png](output_39_0.png)
-
-
-
-
-![png](output_40_0.png)
+![png](img/output_39_0.png)
 
 
 
 
-![png](output_41_0.png)
+![png](img/output_40_0.png)
+
+
+
+
+![png](img/output_41_0.png)
 
 
 ### Outcome Visualized
